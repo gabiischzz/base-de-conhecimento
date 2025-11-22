@@ -1,0 +1,303 @@
+[
+  {
+    "nome": "React",
+    "descricao": "Uma biblioteca JavaScript declarativa, eficiente e flexível para a construção de interfaces de usuário (UI).",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "frontend",
+      "biblioteca",
+      "javascript",
+      "meta"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo de JavaScript para a construção de interfaces de usuário e Single Page Applications (SPAs).",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "frontend",
+      "framework",
+      "javascript",
+      "spa"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset tipado estaticamente do JavaScript que compila para JavaScript simples.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "tipagem estática",
+      "compilador",
+      "ecossistema javascript"
+    ]
+  },
+  {
+    "nome": "Go (Golang)",
+    "descricao": "Linguagem de programação compilada, desenvolvida pelo Google, focada em simplicidade, concorrência e alto desempenho.",
+    "data_criacao": "2009",
+    "link": "https://golang.org/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "concorrência",
+      "sistemas"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas que se concentra em segurança, velocidade e concorrência, garantindo segurança de memória.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "segurança de memória",
+      "alto desempenho"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna, concisa e segura, totalmente interoperável com a Máquina Virtual Java (JVM).",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "jvm",
+      "desenvolvimento android",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma de código aberto usada para empacotar e executar aplicações em ambientes isolados chamados contêineres.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "devops",
+      "virtualização",
+      "containerização",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Sistema de código aberto para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "devops",
+      "orquestração de contêineres",
+      "cloud native",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite definir e provisionar recursos de infraestrutura usando arquivos de configuração declarativos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "devops",
+      "iac",
+      "nuvem",
+      "automação"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados relacional de código aberto com forte ênfase em extensibilidade e conformidade com padrões SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "sql",
+      "código aberto"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL baseado em documentos que oferece alta disponibilidade, escalabilidade e flexibilidade de esquema.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "documento",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Armazenamento de estrutura de dados em memória, rápido e de código aberto, usado como cache, broker de mensagens e banco de dados.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "cache",
+      "in-memory",
+      "mensagem"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs e um runtime para cumprir essas consultas com seus dados existentes.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "backend",
+      "linguagem de consulta",
+      "padronização"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Runtime de código aberto e multi-plataforma para executar código JavaScript no lado do servidor.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "backend",
+      "runtime",
+      "javascript",
+      "servidor"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Framework web que compila o código em JavaScript imperativo que atualiza o DOM diretamente, removendo overhead de runtime.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "frontend",
+      "framework",
+      "compilador",
+      "desempenho"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework de React que facilita o desenvolvimento de aplicações full-stack e otimiza a renderização do lado do servidor (SSR).",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "frontend",
+      "react",
+      "ssr",
+      "framework"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a criação de aplicações Spring independentes e de nível de produção no ecossistema Java.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "backend",
+      "framework",
+      "java",
+      "microsserviços"
+    ]
+  },
+  {
+    "nome": "Laravel",
+    "descricao": "Framework web PHP elegante e expressivo, projetado para o desenvolvimento de aplicações web robustas.",
+    "data_criacao": "2011",
+    "link": "https://laravel.com/",
+    "tags": [
+      "backend",
+      "framework",
+      "php",
+      "mvc"
+    ]
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descricao": "Framework CSS utilitário que permite construir designs personalizados rapidamente, aplicando classes diretamente no markup HTML.",
+    "data_criacao": "2017",
+    "link": "https://tailwindcss.com/",
+    "tags": [
+      "frontend",
+      "css",
+      "framework",
+      "estilização"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless orientado a eventos que executa código em resposta a eventos sem provisionar ou gerenciar servidores.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "nuvem",
+      "serverless",
+      "aws",
+      "funções como serviço"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma de streaming de eventos distribuída de alto desempenho, usada para construir pipelines de dados em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "dados",
+      "mensageria",
+      "distribuído"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "SDK de UI do Google para construir aplicações nativamente compiladas para dispositivos móveis, web e desktop a partir de uma única base de código.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "mobile",
+      "ui",
+      "dart",
+      "multiplataforma",
+      "sdk"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído, gratuito e de código aberto, projetado para lidar com tudo, desde projetos pequenos a muito grandes.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "ferramenta",
+      "devops",
+      "colaboração"
+    ]
+  },
+  {
+    "nome": "GCP (Google Cloud Platform)",
+    "descricao": "Conjunto de serviços de computação em nuvem oferecidos pelo Google, incluindo computação, armazenamento, redes e machine learning.",
+    "data_criacao": "2008",
+    "link": "https://cloud.google.com/",
+    "tags": [
+      "nuvem",
+      "infraestrutura",
+      "serviços",
+      "computação"
+    ]
+  },
+  {
+    "nome": "Apache Cassandra",
+    "descricao": "Banco de dados NoSQL de código aberto distribuído, altamente escalável e tolerante a falhas, projetado para lidar com grandes volumes de dados.",
+    "data_criacao": "2008",
+    "link": "https://cassandra.apache.org/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "distribuído",
+      "big data"
+    ]
+  }
+]
